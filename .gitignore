@@ -1,0 +1,9 @@
+keys/minecraft-key
+keys/minecraft-key.pub
+creds
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform/*.tfstate
+terraform/*.tfstate.backup
+
